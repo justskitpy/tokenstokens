@@ -8,5 +8,16 @@
     "id": "user2",
     "token": "def456",
     "scripts": ["myscript.lua", "premium.lua"]
+  },
+  {
+    "id": "user3",
+    "token": "trippitroppi",
+    "scripts": ["rptalk.lua"]
+  },
+  {
+    "id": "user4",
+    "token": "omarplaki",
+    "scripts": ["rptalk.lua"]
   }
 ]
+
