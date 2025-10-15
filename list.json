@@ -2,7 +2,7 @@
   {
     "id": "user1",
     "token": "abc123",
-    "scripts": ["myscript.lua"]
+    "scripts": ["rptalk.lua"]
   },
   {
     "id": "user2",
