@@ -1,0 +1,12 @@
+[
+  {
+    "id": "user1",
+    "token": "abc123",
+    "scripts": ["myscript.lua"]
+  },
+  {
+    "id": "user2",
+    "token": "def456",
+    "scripts": ["myscript.lua", "premium.lua"]
+  }
+]
